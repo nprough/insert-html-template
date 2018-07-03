@@ -1,0 +1,12 @@
+{
+    "name": "nprough.insert-html-template",
+    "title": "Insert HTML Template",
+    "description": "Insert a simple HTML template using Ctrl+Alt+N OR Edit -> Insert HTML Template. Save your precious time, you've earned it.",
+    "homepage": "https://github.com/nprough/insert-html-template",
+    "version": "1.0.0",
+    "author": "Nicholas R. Prough",
+    "license": "MIT",
+    "engines": {
+        "brackets": ">=0.24.0"
+    }
+}
